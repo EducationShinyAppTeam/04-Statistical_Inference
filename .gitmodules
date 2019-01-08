@@ -1,0 +1,24 @@
+[submodule "Waiter_Experiment"]
+	path = Waiter_Experiment
+	url = https://github.com/EducationShinyAppTeam/Waiter_Experiment
+[submodule "Testing_and_CI_Relationship"]
+	path = Testing_and_CI_Relationship
+	url = https://github.com/EducationShinyAppTeam/Testing_and_CI_Relationship
+[submodule "Simpsons_Paradox"]
+	path = Simpsons_Paradox
+	url = https://github.com/EducationShinyAppTeam/Simpsons_Paradox
+[submodule "Significance_Testing_Caveats"]
+	path = Significance_Testing_Caveats
+	url = https://github.com/EducationShinyAppTeam/Significance_Testing_Caveats
+[submodule "Inference_for_Proportions"]
+	path = Inference_for_Proportions
+	url = https://github.com/EducationShinyAppTeam/Inference_for_Proportions
+[submodule "Inference_for_Means"]
+	path = Inference_for_Means
+	url = https://github.com/EducationShinyAppTeam/Inference_for_Means
+[submodule "Hypothesis_Testing_Game"]
+	path = Hypothesis_Testing_Game
+	url = https://github.com/EducationShinyAppTeam/Hypothesis_Testing_Game
+[submodule "Hypothesis_Testing"]
+	path = Hypothesis_Testing
+	url = https://github.com/EducationShinyAppTeam/Hypothesis_Testing
